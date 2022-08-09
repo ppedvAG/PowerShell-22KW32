@@ -11,3 +11,5 @@
 - cmdlets
 - Module
 - Variablen
+- Operationen
+- Formatierung
