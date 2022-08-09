@@ -10,3 +10,4 @@
     - PowerShell Versionen
 - cmdlets
 - Module
+- Variablen
