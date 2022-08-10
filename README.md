@@ -14,3 +14,9 @@
 - Operationen
 - Formatierung
 - PipeLine 1
+- PipeLine 2
+- Import / Export 1
+- Import / Export 2
+- Filtern
+- Aufzählen
+- Schleifen
