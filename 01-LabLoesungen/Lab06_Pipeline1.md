@@ -1,4 +1,4 @@
-# Lösung zu Lab: PipeLine 2
+# Lösung zu Lab: PipeLine 1
 
 Hauptaufgabe
 ```powershell
